@@ -4,7 +4,7 @@
 
 Backend API for use with [os-league-tools](https://github.com/chaiinchomp/os-league-tools).
 
-## Usage
+## Development
 
 Run locally:
 ```
@@ -13,7 +13,7 @@ npm start
 ```
 API will be available on port 8080.
 
-## Endpoints
+## Usage
 
 ### `hiscores/:rsn`
 
